@@ -34,16 +34,6 @@ Players take turns guessing the location of their opponent's fleet, aiming to si
 
 ---
 
-## Ships
-The game includes 5 ships with varying sizes:
-- **Carrier**: 5 cells
-- **Battleship**: 4 cells
-- **Cruiser**: 3 cells
-- **Submarine**: 3 cells
-- **Destroyer**: 2 cells
-
----
-
 ## Getting Started
 
 ### **Installation**
